@@ -18,18 +18,18 @@ export default function Home() {
 
     <NavBar />
     <HeroBanner />
-    <Stats />
-    <DividerText />
+    {/* <Stats />
+    <DividerText /> */}
 
 
     {/* <VideoThumbnail /> */}
-    <Pricing />
+    {/* <Pricing /> */}
     {/* <RadioButton /> */}
 
-    <Testimonials />
-    <Faqs />
+    {/* <Testimonials />
+    <Faqs /> */}
     {/* <SendEnquiry />  giving error */}
-    <Footer />
+    {/* <Footer /> */}
 
     </>
 
